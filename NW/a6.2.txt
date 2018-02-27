@@ -1,0 +1,17 @@
+A6.2
+Implementieren Sie den in der Vorlesung vorgestellten Algorithmus zur Berechnung
+des globalen Alignments (vereinfachter Needleman&Wunsch). Eingabeparameter sind
+die Kosten für
+Match 2
+Mismatch -1
+Indel -1
+
+Ggf. implementieren SIe nur die Berechnung des Wertes des optimalen Alignments,
+ohne das zugehörige Alignment auszugeben.
+
+Testen Sie Ihre Implementierung an verschiedenen Paarungen aus der Menge der
+PDE-Sequenzen NP_246273, NP_006194, NP_000913 und NP_002590.
+
+Cave: Diese Aufgabe sollten alle bearbeiten, da darauf Folgeaufgaben
+(z.B. verschiedene Alignmentmodi, unterschiedliche Gapkostenfunktionen) aufbauen
+werden.

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Alignment.dir/Alignment.cpp.o CMakeFiles/Alignment.dir/SimilarityMatrix.cpp.o CMakeFiles/Alignment.dir/fasta2string.cpp.o  -o Alignment 
